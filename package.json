@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bitsoft-network/socket.io-jwt-auth/issues"
   },
-  "homepage": "https://github.com/bitsoft-network/socket.io-jwt-auth#readme"
+  "homepage": "https://github.com/bitsoft-network/socket.io-jwt-auth#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
 }
