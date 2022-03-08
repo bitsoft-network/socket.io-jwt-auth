@@ -1,0 +1,24 @@
+{
+  "name": "@bitsoft-network/socket.io-jwt-auth",
+  "version": "1.0.0",
+  "description": "Easy socket.io authentication using JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitsoft-network/socket.io-jwt-auth.git"
+  },
+  "keywords": [
+    "jwt",
+    "auth",
+    "socket.io"
+  ],
+  "author": "Leevi Halme <me@leevihal.me> (https://leevihal.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitsoft-network/socket.io-jwt-auth/issues"
+  },
+  "homepage": "https://github.com/bitsoft-network/socket.io-jwt-auth#readme"
+}
