@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/bitsoft-network/socket.io-jwt-auth#readme",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": ">=9.0.0"
   }
 }
